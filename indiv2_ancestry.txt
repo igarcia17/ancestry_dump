@@ -1,0 +1,126 @@
+K36
+Amerindian: 0.00%
+Arabian: 3.46%
+Armenian: 0.00%
+Basque: 16.17%
+Central African: 0.00%
+Central Euro: 0.00%
+East African: 0.00%
+East Asian: 0.14%
+East Balkan: 0.00%
+East Central Asian: 0.00%
+East Central Euro: 4.91%
+East Med: 0.00%
+Eastern Euro: 0.00%
+Fennoscandian: 0.09%
+French: 5.00%
+Iberian: 35.14%
+Indo-Chinese: 0.00%
+Italian: 10.60%
+Malayan: 0.00%
+Near Eastern: 0.00%
+North African: 0.00%
+North Atlantic: 12.11%
+North Caucasian: 0.00%
+North Sea: 6.70%
+Northeast African: 0.00%
+Oceanian: 0.42%
+Omotic: 0.00%
+Pygmy: 0.00%
+Siberian: 0.00%
+South Asian: 0.00%
+South Central Asian: 0.00%
+South Chinese: 0.00%
+Volga-Ural: 0.00%
+West African: 0.00%
+West Caucasian: 0.00%
+West Med: 5.26%
+
+K47
+Kushitic: 0.28%
+North-Iberian: 26.00%
+East-Iberian: 10.08%
+Tibeto-Burman: 0.00%
+North-African: 5.61%
+South-Caucasian: 2.12%
+North-Caucasian: 0.00%
+Paleo-Balkan: 4.93%
+Turkic-Altai: 0.00%
+Proto-Austronesian: 0.00%
+Nilotic: 0.00%
+East-Med: 7.82%
+Omotic: 0.05%
+Munda: 0.22%
+North-Amerind: 0.00%
+Arabic: 0.69%
+East-Euro: 0.45%
+Central-African: 0.00%
+Andean: 0.00%
+Indo-Chinese: 0.00%
+South-Indian: 0.00%
+NE-Asian: 0.00%
+Volgan: 1.74%
+Mongolian: 0.00%
+Siberian: 0.00%
+North-Sea-Germanic: 11.34%
+Celtic: 10.82%
+West-African: 0.00%
+West-Finnic: 1.37%
+Uralic: 0.00%
+Sahelian: 0.00%
+NW-Indian: 0.00%
+East-African: 0.00%
+East-Asian: 0.00%
+Amuro-Manchurian: 0.00%
+Scando-Germanic: 0.00%
+Iranian: 0.00%
+South-African: 0.00%
+Amazonian: 0.00%
+Baltic: 5.76%
+Malay: 0.00%
+Meso-Amerind: 0.00%
+South-Chinese: 0.00%
+Papuan: 0.00%
+West-Med: 5.40%
+Pamirian: 0.32%
+Central-Med: 4.99%
+
+K25R1
+Atlantic: 37.49%
+Scandinavia: 3.22%
+NW Europe: 0.00%
+South Alps: 31.38%
+West Med: 25.73%
+Baltic: 0.00%
+Russian Steppes: 0.00%
+North Black Sea: 0.00%
+South East Europe: 0.00%
+South Med: 0.00%
+East Caspian: 0.00%
+South Caspian: 0.00%
+Arabia: 1.61%
+South Caucasus: 0.00%
+North Anatolia: 0.00%
+Sahara: 0.00%
+Equatorial Africa: 0.00%
+East Africa: 0.00%
+Siberian: 0.00%
+East Asia: 0.00%
+South Asia: 0.00%
+SE Asia: 0.56%
+Central Asia: 0.00%
+Amerindian: 0.00%
+North Russian: 0.00%
+
+KurdishK10
+Kurdish: 3.60%
+Southeast-European: 9.68%
+Norhteast-European: 11.57%
+Indian: 0.00%
+East-Asian: 0.68%
+Northwest-European: 45.78%
+Siberian: 0.00%
+Sardinian: 19.93%
+Southwest-Asian: 8.55%
+Sub-Saharan: 0.22%
+
